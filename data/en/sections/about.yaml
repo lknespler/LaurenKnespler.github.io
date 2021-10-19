@@ -1,0 +1,46 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Analyst
+# your company information
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a recent graduate looking to break into data science utilizing my background 
+in both programming and statistics. Throughout my academic journey, I have not only learned 
+how to program in several languages and perform statistical techniques on datasets but also 
+apply it to real life scenarios to create visualizations and see the importance of data analytics.'
+# Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/lknespler"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Hardworking
+  percentage: 95
+  color: orange
