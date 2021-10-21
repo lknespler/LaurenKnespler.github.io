@@ -21,28 +21,48 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/project.png
-  role: Contributor
+- name: Covid Data Visualization
+  logo: /images/sections/projects/linechart.png
+  role: Creator
   timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  url: "https://public.tableau.com/app/profile/lauren7061/viz/CovidDashboard_16342779929190/Dashboard1"
+  summary: Tableau Data visualization created utilizing views created from the Covid SQL Project.
+  tags: ["professional", "Tableau", "Covid"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/project.png
-  role: Developer
+- name: Covid SQL Project
+  logo: /images/sections/projects/mysql.png
+  role: Creator
   timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+  #repo: https://github.com/lknespler/PortfolioProjects
+  url: "https://github.com/lknespler/PortfolioProjects/blob/main/Covid%20Portfolio%20Project.sql"
+  summary: In this project, MySQL was utilized inorder to analyze global Covid-19 data.
+  tags: ["professional", "MySQL","academic", "Covid"]
 
-- name: Toha
-  logo: /images/sections/projects/project.png
-  role: Owner
+- name: Data Cleaning in MySQL
+  logo: /images/sections/projects/dolph.png
+  role: Creator
+  timeline: "Jun 2018 - Present"
+  #repo: https://github.com/lknespler/PortfolioProjects
+  url: "https://github.com/lknespler/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project.sql"
+  summary: Transformed housing data with MySQL to ensure a suitable format for analysis.
+  tags: ["professional","MySQL", "academic"]
+
+- name: Movie Correlation Project
+  logo: /images/sections/projects/scatter.png
+  role: Creator
+  timeline: "Jun 2018 - Present"
+  #repo: https://github.com/lknespler/PortfolioProjects
+  url: "https://github.com/lknespler/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb"
+  summary: Examined the movie dataset to determine the relationship between each variable and the gross earnings from the movie.
+  tags: ["professional","Python", "academic"]
+
+- name: Amazon Web Scraper
+  logo: /images/sections/projects/amazon.png
+  role: Creator
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  #repo: https://github.com/lknespler/PortfolioProjects
+  url: "https://github.com/lknespler/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb"
+  summary: Programmed in Python to extract product information from an Amazon webpage and analyze the price data. 
+  tags: ["professional", "Python","academic"]
