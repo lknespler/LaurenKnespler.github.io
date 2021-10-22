@@ -22,9 +22,9 @@ skills:
   url: "https://github.com/lknespler/PortfolioProjects"
 
 - name: Statistics
-  logo: "/images/sections/skills/stats.png"
+  logo: "/images/sections/skills/stats.gif"
   summary: "Analyze data by translating it and performing statistical techniques(sampling, regressions, analysis of variance, etc) in R and SAS."
 
-  name: Programming
+- name: Programming
   logo: "/images/sections/skills/code.png"
   summary: "Creating and managing databases in Python, JavaScript, and Ruby on Rails."
