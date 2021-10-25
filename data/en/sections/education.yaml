@@ -76,11 +76,11 @@ degrees:
   #   url: "#"
   # - title: Fusce eu augue ut odio porttitor pulvinar.
   #   url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
 - name: Minor in Computer Science
   icon: fa-university
   timeframe: 2018-2021
