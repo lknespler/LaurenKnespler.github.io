@@ -23,7 +23,7 @@ skills:
 
 - name: Statistics
   logo: "/images/sections/skills/stats.gif"
-  summary: "Analyze data by translating it and performing statistical techniques(sampling, regressions, analysis of variance, etc) in R and SAS."
+  summary: "Analyze data by translating it and performing statistical techniques (sampling, regressions, analysis of variance, etc) in R and SAS."
 
 - name: Programming
   logo: "/images/sections/skills/code.png"
