@@ -28,3 +28,4 @@ skills:
 - name: Programming
   logo: "/images/sections/skills/code.png"
   summary: "Creating and managing databases in Python, JavaScript, and Ruby on Rails."
+  url: "https://github.com/lknespler?tab=repositories"

@@ -11,8 +11,8 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Greetings, my name is Lauren Knespler, and this is an introduction post. I have spent the last three years studying Applied Mathematics and Statistics as well as Computer Science at Stony Brook University. Following my August 2021 graduation, I have spent time reviewing and mastering the skills/applications shown below:
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+- Data Visualization: Tableau, Power Bi, Excel
+- Python, Javascript, Java, Ruby, R, SAS, SQL
+- As review I have also completed several courses on Datacamp and working towards completing several certifications. 
