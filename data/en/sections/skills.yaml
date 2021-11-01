@@ -28,13 +28,17 @@ skills:
 
 - name: Programming
   logo: "/images/sections/skills/code.png"
-  summary: "Created and managed databases in Python, JavaScript, and Ruby on Rails."
+  summary: "Created and managed databases in Python, JavaScript, and Ruby on Rails. "
   url: "https://github.com/lknespler?tab=repositories"
 
 - name: NoSQL
   logo: "/images/sections/skills/mongodb.png"
   summary: "Created non-relational databases with MongoDB." 
 
-  name: HTML
+- name: HTML
   logo: "/images/sections/skills/html.png"
-  summary: "Constructed websites utilizing HTML, CSS, and the DOM(Document Object Model)"
+  summary: "Constructed websites utilizing HTML, CSS, Canvas, jQuery, React, AJAX, JSON, and the DOM(Document Object Model)"
+
+- name: Web Applications
+  logo: "/images/sections/skills/node.png"
+  summary: "Created web-applications with Javascript, Node.js, and Express.js"
