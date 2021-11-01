@@ -1,4 +1,4 @@
-baseURL: https://LaurenKnespler.github.io.git
+baseURL: https://LaurenKnespler.github.io
 
 languageCode: en-us
 title: "Lauren's Portfolio"
@@ -33,7 +33,7 @@ params:
     # inverted: /images/site/inverted-logo.png
     # favicon: /images/site/favicon.png
   # GitHub repo URL of your site
-  gitRepo: https://github.com/lknespler/LaurenKnespler.github.io.git
+  gitRepo: https://github.com/lknespler/LaurenKnespler.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
