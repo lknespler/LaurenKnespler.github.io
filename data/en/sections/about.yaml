@@ -30,6 +30,12 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/lknespler"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/lauren-knespler/"
+- name: Tableau Public
+  icon: "fas fa-chart-bar"
+  url: "https://public.tableau.com/app/profile/lauren7061"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

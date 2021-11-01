@@ -18,7 +18,8 @@ skills:
 
 - name: SQL
   logo: "/images/sections/skills/sql.png"
-  summary: "Proficient in writing SQL queries to further analyze and interpret data."
+  summary: "Proficient in writing SQL queries to further analyze and interpret data.
+  Previously utilized MySQL, MS-SQL, and PostgreSQL" 
   url: "https://github.com/lknespler/PortfolioProjects"
 
 - name: Statistics
@@ -27,5 +28,13 @@ skills:
 
 - name: Programming
   logo: "/images/sections/skills/code.png"
-  summary: "Creating and managing databases in Python, JavaScript, and Ruby on Rails."
+  summary: "Created and managed databases in Python, JavaScript, and Ruby on Rails."
   url: "https://github.com/lknespler?tab=repositories"
+
+- name: NoSQL
+  logo: "/images/sections/skills/mongodb.png"
+  summary: "Created non-relational databases with MongoDB." 
+
+  name: HTML
+  logo: "/images/sections/skills/html.png"
+  summary: "Constructed websites utilizing HTML, CSS, and the DOM(Document Object Model)"

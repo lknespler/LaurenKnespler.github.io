@@ -28,7 +28,7 @@ params:
   logo:
     main: /images/site/inverted-logo.png
     inverted: /images/site/icon.png
-    favicon: /images/site/icon.png
+    favicon: /images/site/inverted-logo.png
     # main: /images/site/main-logo.png
     # inverted: /images/site/inverted-logo.png
     # favicon: /images/site/favicon.png
