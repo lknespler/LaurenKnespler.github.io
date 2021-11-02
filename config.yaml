@@ -1,5 +1,4 @@
-baseURL: https://LaurenKnespler.github.io
-relativeurls: true
+baseURL: https://lknespler.github.io
 
 languageCode: en-us
 title: "Lauren's Portfolio"
@@ -34,7 +33,7 @@ params:
     # inverted: /images/site/inverted-logo.png
     # favicon: /images/site/favicon.png
   # GitHub repo URL of your site
-  gitRepo: https://github.com/lknespler/LaurenKnespler.github.io
+  gitRepo: https://github.com/lknespler/lknespler.github.io
   # Default branch of your Git repo
   gitBranch: source
 
