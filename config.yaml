@@ -1,4 +1,5 @@
 baseURL: https://LaurenKnespler.github.io
+relativeurls: true
 
 languageCode: en-us
 title: "Lauren's Portfolio"
