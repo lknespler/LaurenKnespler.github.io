@@ -51,3 +51,12 @@ softSkills:
 - name: Hardworking
   percentage: 95
   color: orange
+- name: Adaptability
+  percentage: 87
+  color: sky
+- name: Problem-solving
+  percentage: 85
+  color: green
+- name: Creativity
+  percentage: 93
+  color: pink
