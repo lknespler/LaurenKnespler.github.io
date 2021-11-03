@@ -18,10 +18,11 @@ designation: Data Analyst
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a recent graduate looking to break into data science utilizing my background 
-in both programming and statistics. Throughout my academic journey, I have not only learned 
-how to program in several languages and perform statistical techniques on datasets but also 
-apply it to real life scenarios to create visualizations and see the importance of data analytics.'
+summary: 'I am a recent graduate looking to break into data science, utilizing my background
+ in both programming and statistics. Throughout my academic journey, I have not only learned 
+ how to program in several languages, perform statistical techniques on datasets and create 
+ visualizations, but also apply what I've learned to real-life scenarios. This has allowed 
+ me to see the impact and importance of data analytics.'
 # Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
